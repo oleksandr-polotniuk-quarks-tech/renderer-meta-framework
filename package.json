@@ -1,5 +1,6 @@
 {
   "name": "renderer-meta-framework",
+  "type": "module",
   "version": "1.0.1",
   "description": "meta framework for renderer",
   "main": "index.js",
