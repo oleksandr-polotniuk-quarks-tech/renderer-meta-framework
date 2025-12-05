@@ -1,0 +1,22 @@
+{
+  "name": "renderer-meta-framework",
+  "version": "1.0.0",
+  "description": "meta framework for renderer",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oleksandr-polotniuk-quarks-tech/renderer-meta-framework.git"
+  },
+  "keywords": [
+    "renderer"
+  ],
+  "author": "oleksandr polotniuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oleksandr-polotniuk-quarks-tech/renderer-meta-framework/issues"
+  },
+  "homepage": "https://github.com/oleksandr-polotniuk-quarks-tech/renderer-meta-framework#readme"
+}
