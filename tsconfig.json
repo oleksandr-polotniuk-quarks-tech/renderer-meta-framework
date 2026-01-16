@@ -4,8 +4,10 @@
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
     "declaration": true,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
     "strict": true
   },
-  "include": ["index.ts"],
+  "include": ["src/**/*.ts"],
   "exclude": ["dist", "node_modules"]
 }
