@@ -1,7 +1,7 @@
 {
   "name": "renderer-meta-framework",
   "type": "module",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "meta framework for renderer",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -27,5 +27,7 @@
     "typescript": "^5.6.3",
     "vite": "^5.4.10"
   },
-  "files": ["dist"]
+  "files": [
+    "dist"
+  ]
 }
